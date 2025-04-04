@@ -1,4 +1,4 @@
-# E-commerce-shopping-portal-using-j2ee-technologies
+# E-commerce-shopping-portal
 Create a dynamic e-commerce shopping cart using j2ee technologies like servlets, jsp, JDBC, Jstl, and Java Beans.
 
 ### Installing
